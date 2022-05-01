@@ -1,7 +1,7 @@
 # Game-Injector
 This is  an injector that can inject dll into games / any program.
 
-#USE AT YOUR OWN RISK
+# USE AT YOUR OWN RISK
 This has no bypass for any anticheats it just injects a dll file into any program.
 
 # USING FOR OFFLINE PURPOSES IN RAINBOW SIX SEIGE
